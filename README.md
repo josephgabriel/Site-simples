@@ -6,5 +6,7 @@ Em uma página da Web, a linguagem de marcação de hipertexto (HTML) fornece se
 no desenvolvimento do meu site criei tres arquivos:
 
 Um arquivo HTML para a estrutura da página e para o conteúdo
+
 Um arquivo CSS para apresentação e aplicação de estilos
+
 Um arquivo JavaScript para comportamentos e interatividade
