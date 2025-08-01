@@ -10,3 +10,5 @@ Um arquivo HTML para a estrutura da página e para o conteúdo
 Um arquivo CSS para apresentação e aplicação de estilos
 
 Um arquivo JavaScript para comportamentos e interatividade
+
+Designar um arquivo HTML para a estrutura da página e um arquivo CSS para a definição de estilos e arquivos JavaScript para interação ou eventos é chamado de separação de interesses.
